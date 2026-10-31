@@ -17,9 +17,8 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # GitHub Stats 📊 :
-![](https://github-readme-stats.vercel.app/api?username=yilmazfatmanur&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yilmazfatmanur&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazfatmanur&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](./profile-summary-card-output/github_dark/3-stats.svg)
+![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 
 ##  Socials 🌐:
