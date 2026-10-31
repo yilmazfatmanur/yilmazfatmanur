@@ -27,12 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="40%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="38%" />
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="38%" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="45%" />
 </p>
 
 
