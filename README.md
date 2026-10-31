@@ -17,8 +17,14 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # GitHub Stats 📊 :
-![](./profile-summary-card-output/github_dark/3-stats.svg)
-![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+</p>
 
 
 ##  Socials 🌐:
