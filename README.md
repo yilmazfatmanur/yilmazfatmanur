@@ -18,16 +18,16 @@
 
 # GitHub Stats 📊 :
 <p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="60%" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="48%" />
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="35%" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="35%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="60%" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="45%" />
 </p>
 
 
