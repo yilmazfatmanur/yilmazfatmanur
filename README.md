@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Fatmanur💫 
-📌 Computer Programming graduate<br>📊 Data Analytics & SQL focused<br>🌱 Learning: SQL  • Database (PostgreSQL / MSSQL)<br>🚀 Building data projects & improving every day
+📌Computer Programming graduate | MIS student<br>📊 Data Analytics & SQL focused<br>🌱 Learning: SQL  • Database (PostgreSQL / MSSQL)<br>🚀 Building data projects & improving every day
  
 
 # Tech Stack👩🏼‍💻:
